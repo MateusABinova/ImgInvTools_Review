@@ -1,0 +1,1 @@
+{"cam": 0, "refs": ["Padrao_1.png"], "tempoTeste": 30, "tamMask": 6, "metodoDetect": "akaze", "correspondencias": 30, "mode": "01", "threshold": 213, "gain": 170.0, "exposition": -5.0, "fps": 30.00003000003, "focus": -1.0, "saturation": 127.0, "bright": 127.0, "contrast": 23.0}
